@@ -21,10 +21,6 @@ A simple Flutter app that simulates a dice roll. Press the button to roll the di
 - Flutter
 - Dart
 
-## 📦 Getting Started
+## 📦 Download
 
-```bash
-git clone https://github.com/Aditya-602/DiceRoller.git
-cd DiceRoller
-flutter pub get
-flutter run
+[Click here to download the APK](https://github.com/Aditya-602/DiceRoller/Release/app-release.apk)
