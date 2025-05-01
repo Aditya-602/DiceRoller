@@ -1,4 +1,3 @@
-
 # 🎲 Dice Roller
 
 A simple Flutter app that simulates a dice roll. Press the button to roll the dice and get a random number between 1 and 6.
@@ -11,11 +10,9 @@ A simple Flutter app that simulates a dice roll. Press the button to roll the di
 
 ## 📱 Screenshots
 
-![Dice Roller Screenshot 1](./images/ss1.png)
-![Dice Roller Screenshot 2](./images/ss2.png)
-![Dice Roller Screenshot 3](./images/ss3.png)
-
-
+<img src="./images/ss1.png" width="300" />
+<img src="./images/ss2.png" width="300" />
+<img src="./images/ss3.png" width="300" />
 
 ## 🛠️ Built With
 
