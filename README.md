@@ -23,4 +23,4 @@ A simple Flutter app that simulates a dice roll. Press the button to roll the di
 
 ## 📦 Download
 
-[Click here to download the APK](./Release/app-release.apk)
+[Click here to download the APK](https://github.com/Aditya-602/DiceRoller/releases/download/1.0.0/app-release.apk)
