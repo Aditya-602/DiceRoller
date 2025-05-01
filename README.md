@@ -10,9 +10,11 @@ A simple Flutter app that simulates a dice roll. Press the button to roll the di
 
 ## 📱 Screenshots
 
-<img src="./images/ss1.png" width="300" />
-<img src="./images/ss2.png" width="300" />
-<img src="./images/ss3.png" width="300" />
+<div>
+  <img src="./images/ss1.png" width="300" style="display: inline-block; margin-right: 10px;"/>
+  <img src="./images/ss2.png" width="300" style="display: inline-block; margin-right: 10px;"/>
+  <img src="./images/ss3.png" width="300" style="display: inline-block;"/>
+</div>
 
 ## 🛠️ Built With
 
